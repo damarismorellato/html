@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+}
+.container{
+    background-color: white;
+}
+#bannerPrincipal{
+    width: 100%;
+    height: 80%;
+}
